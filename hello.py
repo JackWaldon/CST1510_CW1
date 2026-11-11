@@ -1,1 +1,1 @@
-print("Hello from CST1510!") vhs
+print("Hello from CST1510!")
